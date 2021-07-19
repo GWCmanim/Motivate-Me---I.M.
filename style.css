@@ -1,0 +1,104 @@
+/* STYLE SECTIONING TAGS */
+body {
+  background-color: rgba(255, 20, 145, 0.281);
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+/* STYLE TEXT */
+h1 {
+  font-style: italic;
+  color: #0d9c90;
+}
+
+h2 {
+  margin-top: 2em; 
+}
+
+/* STYLE FLEX CONTAINER */
+.question {
+  display: flex;
+  margin-top: 2em;
+}
+  
+/* STYLE FLEX ITEM */
+.answer-choice {
+  margin: 5px;
+}
+
+/* STYLE IMAGES */
+.answer-choice img {
+  height: 10em;
+}
+
+
+
+
+
+/* STYLE BUTTON */
+button { 
+  margin-top: 5px;
+}
+
+
+.oneHeading{
+  color: purple;
+  font-style: italic;
+}
+
+
+#motivationGenerator{
+  color: purple;
+  background-color: pink;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1em;
+  display: block;
+}
+
+.motivation{
+
+}
+
+.motivation2{
+padding:0em;
+margin-left:30px;
+margin-right:4px;
+border-left: 2em;
+max-width: 72%;
+
+}
+
+.motivation3{
+max-width: 82%;
+margin-top: 40px;
+margin-left: 30px;
+}
+
+.motivation{
+
+}
+
+.motivationclick{
+  margin-left: 50px;
+  margin-right: auto;
+  padding: 0em;
+  margin-top: 20px
+
+}
+
+
+#secondclick {
+    margin-left: 70px;
+  margin-right: auto;
+  padding: 0em;
+  margin-top: 20px
+}
+
+.motivationclick3 {
+  margin-bottom: 50px;
+  margin-top: 20px;
+  margin-left: 150px;
+  margin-right:auto;
+}
+
